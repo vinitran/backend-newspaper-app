@@ -9,6 +9,7 @@ const router = (app) => {
     /**
     * @typedef news
     * @property {string} time.required -
+    * @property {string} title.required -
     * @property {string} imageUrl.required -
     * @property {string} description.required -
     * @property {number} like.required -
@@ -24,6 +25,10 @@ const router = (app) => {
 
     app.post("/post/news", async (req, res, next) => {
         news.createNews(req, res);
+    });
+
+    app.get("/post/news/list", async (req, res, next) => {
+        news.upgradeNews(req, res);
     });
 
     /**

@@ -9,19 +9,19 @@ const videos = sequelize.define('videos', {
         unique: true,
     },
     videoUrl: {
-        type: DataTypes.STRING(100),
+        type: DataTypes.STRING,
         allowNull: false,
     },
     title: {
-        type: DataTypes.STRING(100),
+        type: DataTypes.STRING,
         allowNull: false,
     },
     thumbnail: {
-        type: DataTypes.STRING(100),
+        type: DataTypes.STRING,
         allowNull: false,
     },
     time: {
-        type: DataTypes.STRING(100),
+        type: DataTypes.STRING,
         allowNull: false,
     }
 });

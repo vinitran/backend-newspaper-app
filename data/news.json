@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": null, "name": "MLB Trade Rumors" },
+      "author": "Steve Adams",
+      "title": "Yankees, Aaron Judge Agree To Record-Setting Deal - MLB Trade Rumors",
+      "description": "The Yankees have agreed to a record-setting nine-year contract with reigning American League MVP Aaron Judge. Read more at MLB Trade Rumors.",
+      "url": "https://www.mlbtraderumors.com/2022/12/yankees-to-sign-aaron-judge.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2022/08/aaron-judge-ny-yankees-1024x684.jpg",
+      "publishedAt": "2022-12-07T14:37:30Z",
+      "content": "The New York Yankees are re-signing reigning American League MVP Aaron Judge, reports Jon Morosi of MLB.com. It’s a nine-year, $360MM contract, tweets Ken Rosenthal of The Athletic. The agreement is … [+6115 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ariane de Vogue",
+      "title": "The case in front of the Supreme Court Wednesday could upend electoral politics - CNN",
+      "description": "The Supreme Court will take on the future of federal elections Wednesday, discussing a case that could upend electoral politics and embolden state legislatures to act without judicial oversight.",
+      "url": "https://www.cnn.com/2022/12/07/politics/supreme-court-independent-state-legislature-trump/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221207092807-u-s-supreme-court-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-07T13:59:00Z",
+      "content": "The Supreme Court will take on the future of federal elections Wednesday, discussing a case that could upend electoral politics and embolden state legislatures to act without judicial oversight. \r\nSu… [+8294 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Richard Luscombe",
+      "title": "Herschel Walker’s son revels in father’s Georgia Senate runoff defeat - The Guardian US",
+      "description": "Christian Walker sent a series of celebratory tweets that recalled the candidate’s alleged history of mistreatment of his family",
+      "url": "https://www.theguardian.com/us-news/2022/dec/07/herschel-walker-son-christian-celebrates-defeat-georgia",
+      "urlToImage": "https://i.guim.co.uk/img/media/a4993e0e2f12914fd278b95c7d9c75889d918cf2/0_122_5105_3065/master/5105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a78ff9870df9210351ed14e4c0751a4",
+      "publishedAt": "2022-12-07T13:23:00Z",
+      "content": "Among the many detractors celebrating Herschel Walkers defeat in the Georgia Senate runoff was one closer to home: son Christian, who expressed his delight on Twitter that the state had rejected his … [+1878 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Bojan Pancevski",
+      "title": "Germany Dismantles QAnon-Inspired Terrorist Group Suspected of Plotting Coup - The Wall Street Journal",
+      "description": "Authorities arrest two dozen suspects including current and former members of the military and a former lawmaker",
+      "url": "https://www.wsj.com/articles/germany-dismantles-suspected-qanon-inspired-terrorist-group-11670405579",
+      "urlToImage": "https://images.wsj.net/im-680610/social",
+      "publishedAt": "2022-12-07T13:12:00Z",
+      "content": "German authorities on Wednesday said they had dismantled a domestic far-right terrorist cell inspired by the QAnon conspiracy on suspicion of planning to overthrow the government.\r\nOf the 25 people a… [+322 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "‘Amazing occurrence’: hurricane erosion reveals shipwreck on Florida beach - The Guardian US",
+      "description": "Storms uncover what appears to be wooden ship dating from 1800s poking from sand at Dayton Beach Shores",
+      "url": "https://www.theguardian.com/us-news/2022/dec/07/florida-shipwreck-beach-uncovered-hurricanes",
+      "urlToImage": "https://i.guim.co.uk/img/media/cb8ccaea44e59ca7c3ae9b8e00b99c63ccf58f0f/0_172_5158_3095/master/5158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0017cfd9cfa62609d9fa55f332a8b482",
+      "publishedAt": "2022-12-07T12:47:00Z",
+      "content": "Severe beach erosion from two late-season hurricanes has helped uncover what appears to be a wooden ship dating from the 1800s which had been buried under the sand on Floridas east coast for up to tw… [+2061 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Maeve Reston",
+      "title": "Warnock will win Georgia Senate runoff, CNN projects, in final midterm rebuke of Trump's influence - CNN",
+      "description": "Democratic Sen. Raphael Warnock will win Georgia's Senate runoff, CNN projects, giving Democrats greater leverage in the Senate next year and delivering a critical blow to former President Donald Trump after a defeat of yet another one of his hand-picked cand…",
+      "url": "https://www.cnn.com/2022/12/06/politics/georgia-senate-runoff-voting/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202123500-raphael-warnock-augusta-file-110522.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-07T12:35:00Z",
+      "content": "Democratic Sen. Raphael Warnock will win Georgias Senate runoff, CNN projects, giving Democrats greater leverage in the Senate next year and delivering a critical blow to former President Donald Trum… [+7109 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Mozambique 'tuna bond' scandal: Ex-President Guebuza's son jailed for 12 years - BBC",
+      "description": "Ndambi Guebuza is among 11 defendants found guilty of corruption for a $2bn failed fishing project.",
+      "url": "https://www.bbc.com/news/world-africa-63887329",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/127E7/production/_127915757_gettyimages-1245433285.jpg",
+      "publishedAt": "2022-12-07T12:26:13Z",
+      "content": "The son of Mozambique's former president has been jailed for 12 years over a vast $2.2bn (£1.8bn) fishing project scandal that triggered an economic crisis in the country.\r\nNdambi Guebuza, son of for… [+2666 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "Kana Inagaki, Tim Bradshaw",
+      "title": "Microsoft signs 10-year 'Call of Duty' deal with Nintendo - Financial Times",
+      "description": "US tech group tries to address antitrust concerns over acquisition of Activision Blizzard",
+      "url": "https://www.ft.com/content/e1d4a7da-b208-4f2e-84ed-9d84c763b152",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3b404891-daa6-4c7f-9680-747b93bf06bf.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-12-07T12:25:19Z",
+      "content": "Microsoft has signed a 10-year deal to bring Call of Duty, one of the worlds most popular gaming franchises, to Nintendos platforms for the first time in almost a decade, following its planned $75bn … [+2495 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Scharon Harding",
+      "title": "Review: The 2022 Dell XPS 13 is more than just a pretty face - Ars Technica",
+      "description": "Louder, lighter, and better-looking than your typical 13-inch XPS laptop.",
+      "url": "https://arstechnica.com/gadgets/2022/12/dell-xps-13-2022-review/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/listing-760x380.jpg",
+      "publishedAt": "2022-12-07T12:00:22Z",
+      "content": "31 with 0 posters participating\r\n<table><tr><th>Specs at a glance: Dell XPS 13 2022 (9315)</th></tr><tr><td></td><td>Worst</td><td>Best</td><td>As reviewed</td></tr><tr><td>Screen</td><td>13.4-inch 1… [+3831 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WESH Orlando" },
+      "author": null,
+      "title": "Tropical disturbance given 50% chance of formation - WESH 2 Orlando",
+      "description": "The National Hurricane Center is tracking a tropical disturbance in the central Atlantic.",
+      "url": "https://www.wesh.com/article/tracking-the-tropics-florida/42175387",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/invest1-png-1670413936.png?crop=0.896xw:1.00xh;0.0721xw,0&resize=1200:*",
+      "publishedAt": "2022-12-07T11:59:00Z",
+      "content": "ORLANDO, Fla. —The National Hurricane Center is tracking a tropical disturbance in the central Atlantic.\r\nAs of Wednesday morning, the system has been given a 50% chance of development in the next fi… [+3457 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Adrianna Rodriguez, USA TODAY",
+      "title": "Flu worsens amid COVID, RSV: What to know about symptoms, vaccine - USA TODAY",
+      "description": "Amid the \"tripledemic\" of influenza, RSV and COVID, doctors say the flu is getting worse. Here's what to know about cases, symptoms and the vaccine.",
+      "url": "https://www.usatoday.com/story/news/health/2022/12/06/flu-worsens-amid-rsv-covid/10816302002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/28/USAT/f6a9e9e6-6233-41e5-8b0d-db75ea252cfd-GettyImages-1217583991.jpg?auto=webp&crop=2118,1192,x0,y108&format=pjpg&width=1200",
+      "publishedAt": "2022-12-07T11:46:59Z",
+      "content": "Though the “tripledemic” – COVID-19, RSV and influenza –remains a problem in many places, experts say the flu is beginning to hit the country hard.\r\nDr. William Schaffner, an infectious disease speci… [+4601 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Jamey Keaten",
+      "title": "Ukraine leader defiant as drone strikes hit Russia again - The Associated Press",
+      "description": "KYIV, Ukraine (AP) — Drones struck inside Russia’s border with Ukraine on Tuesday in the second day of attacks exposing the vulnerability of some of Moscow’s most important military sites, experts said.",
+      "url": "https://apnews.com/article/russia-ukraine-kyiv-europe-8ade16c890a92e353f11cae01a01e498",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/cc70ea1e4e56464996dac6871ee87e2c/3000.webp",
+      "publishedAt": "2022-12-07T11:40:02Z",
+      "content": "KYIV, Ukraine (AP) Drones struck inside Russias border with Ukraine on Tuesday in the second day of attacks exposing the vulnerability of some of Moscows most important military sites, experts said. … [+6807 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lauren Said-Moorhouse",
+      "title": "Harry and Meghan accept award in New York ahead of release of Netflix series - CNN",
+      "description": "The Duke and Duchess of Sussex have said \"we know a ripple of hope can turn into a wave of change\" after they were honored in New York for their work on racial justice and mental health.",
+      "url": "https://www.cnn.com/2022/12/07/us/harry-and-meghan-ripple-of-hope-award-intl-scli/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221207092211-02-harry-and-meghan-ripple-120622.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-07T11:19:00Z",
+      "content": "The Duke and Duchess of Sussex have said we know a ripple of hope can turn into a wave of change after they were honored in New York for their work on racial justice and mental health. \r\nPrince Harry… [+3199 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Chantz Martin",
+      "title": "Ex-NFL QB Andrew Luck breaks his silence, finally reveals why he abruptly ended football career: report - Fox News",
+      "description": "Andrew Luck announced his retirement from football shortly after he lead the Colts to the playoffs. He is now opening up about his surprising decision to retire in his prime.",
+      "url": "https://www.foxnews.com/sports/ex-nfl-qb-andrew-luck-once-on-track-to-hall-of-fame-reveals-what-derailed-his-career-report",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Andrew-Luck.jpg",
+      "publishedAt": "2022-12-07T11:04:13Z",
+      "content": "Former Indianapolis Colts quarterback Andrew Luck has mostly maintained a private lifestyle since his sudden retirement from professional football.\r\nThe former No. 1 pick shared details surrounding h… [+3755 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By Heather Chen and Masrur Jamaluddin, CNN",
+      "title": "How Indonesia's new sex laws will affect tourists - CNN",
+      "description": "New rules raise concerns for human rights, but also for the country's battered tourism industry with experts warning they could scare visitors away, potentially losing billions in revenue.",
+      "url": "https://www.cnn.com/travel/article/indonesia-criminal-code-tourists-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221207101558-02-indonesia-criminal-code-tourists-super-tease.jpeg",
+      "publishedAt": "2022-12-07T11:00:01Z",
+      "content": "(CNN) International travelers have been flocking back to the popular resort island of Bali as the Covid pandemic subsides, prompting hopes that Indonesia's battered tourism industry is on the road to… [+4615 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Eric Berger",
+      "title": "Health experts in conundrum over best way to avoid winter ‘tripledemic’ - The Guardian",
+      "description": "RSV, Covid-19 and flu cases are exploding, but many health officials aren’t forcing masks or discouraging in-person gatherings",
+      "url": "https://www.theguardian.com/society/2022/dec/07/rsv-covid-19-flu-tripledemic-social-distancing-masks",
+      "urlToImage": "https://i.guim.co.uk/img/media/78e3e74fb88c4a1d12c2f7b762e92cf4a438bf20/0_137_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3fa21bc229a49875b5492c62d76164c4",
+      "publishedAt": "2022-12-07T10:02:00Z",
+      "content": "Dr Jason Newland, a pediatric infectious disease doctor at St Louis childrens hospital, is just waiting for his cold to start. I can list off about 10 people right now that have had some sort of illn… [+5901 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Joyce Li",
+      "title": "Initial Reactions to 'Avatar: The Way of Water' Calls the Film a \"Visual Masterpiece\" - Yahoo Life",
+      "description": "In anticipation of the global release of James Cameron's sequel Avatar: The Way of Water, the...",
+      "url": "https://www.yahoo.com/lifestyle/initial-reactions-avatar-way-water-094827514.html",
+      "urlToImage": "https://media.zenfs.com/en/hypebeast_936/74611c3317c7d75ebc6a1dc4045ba2a2",
+      "publishedAt": "2022-12-07T09:48:27Z",
+      "content": "In anticipation of the global release of James Cameron's sequel Avatar: The Way of Water, the initial reactions are officially unveiled after the press received access to the world premiere in London… [+7573 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "by Simone McCarthy",
+      "title": "As China moves away from zero-Covid, health experts warn of dark days ahead - CNN",
+      "description": "China's zero-Covid policy, which stalled the world's second-largest economy and sparked a wave of unprecedented protests, is now being dismantled as Beijing on Wednesday released sweeping revisions to its draconian measures that ultimately failed to bring the…",
+      "url": "https://www.cnn.com/2022/12/06/china/china-zero-covid-relaxation-crisis-intl-hnk-mic/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221206122542-02-china-zero-covid-relaxation.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-07T09:17:00Z",
+      "content": "Editors Note: Editors Note: A version of this story appeared in CNNs Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the countrys rise and how it impa… [+10072 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Steve Douglas",
+      "title": "Ronaldo dropped, Ramos scores 3 for Portugal at World Cup - The Associated Press",
+      "description": "LUSAIL, Qatar (AP) — A chant of “RONALDO! RONALDO!” swept around the biggest stadium at the World Cup,  followed by loud jeers when the fans realized their idol wasn’t coming onto the field.",
+      "url": "https://apnews.com/article/world-cup-sports-soccer-europe-middle-east-33b3bb4766719b3d22f589cc3be1fb62",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/42bb4413a58c4ba59da51af33c15dcbe/2127.webp",
+      "publishedAt": "2022-12-07T09:07:56Z",
+      "content": "LUSAIL, Qatar (AP) A chant of RONALDO! RONALDO! swept around the biggest stadium at the World Cup, followed by loud jeers when the fans realized their idol wasnt coming onto the field.\r\nCristiano Ron… [+4328 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Tanaya Macheel",
+      "title": "Stock futures slightly negative Wednesday morning - CNBC",
+      "description": "On Tuesday, the S&P 500 notched a four-day losing streak as recession fears took over the market.",
+      "url": "https://www.cnbc.com/2022/12/06/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107161878-NYSE-Trading-Floor-OB-20221206-CC-PRESS-6.jpg?v=1670367929&w=1920&h=1080",
+      "publishedAt": "2022-12-07T07:22:00Z",
+      "content": "Stock futures were just under the flatline Wednesday morning.\r\nFutures tied to the Dow Jones Industrial Average were down 20 points, or 0.06%, while S&amp;P 500 futures were 0.06% lower and Nasdaq 10… [+1217 chars]"
+    }
+  ]
+}
