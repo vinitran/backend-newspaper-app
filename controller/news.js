@@ -33,22 +33,6 @@ const createNews = async (req, res) => {
     return res.json(newsInit)
 }
 
-const upgradeNews = async (req, res) => {
-    await newsapi.v2.topHeadlines({
-        sources: 'bbc-news,the-verge',
-        language: 'en',
-      }).then(response => {
-        console.log(response.articles[0].content);
-        /*
-          {
-            status: "ok",
-            articles: [...]
-          }
-        */
-      });
-    return res.json({ message: "success" })
-}
-
 const getNewsById = async (req, res) => {
     const data = await news.news.findByPk(req.params.id);
     if (!data) {
@@ -74,7 +58,8 @@ const getListNewsFromIdToId = async (req, res) => {
             id: {
                 [Op.between]: [req.params.fromId, req.params.toId]
             }
-        }
+        },
+        attributes: ['id', 'imageUrl', "title", "time"]
     })
     return res.json(data);
 }
@@ -106,6 +91,6 @@ module.exports = {
     getNewsById,
     getListNewsFromIdToId,
     getNewsDetailById,
-    getListNews,
-    upgradeNews
+    getListNews
+    
 }
