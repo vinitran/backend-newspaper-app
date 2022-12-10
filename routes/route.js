@@ -68,6 +68,20 @@ const router = (app) => {
     app.get("/get/news/list", async (req, res, next) => {
         news.getListNews(req, res);
     });
+    
+    /**
+     * Get video list by default limit 
+     * @route GET /get/videos/list/from/{fromId}/to/{toId}
+     * @group News
+     * @param {number}  fromId.path.required - Id of detail news
+     * @param {number}  toId.path.required - Id of detail news
+     * @returns {object} 200 - id, videoUrl, title, thumbnail, time
+     * @returns {Error}  default - Unexpected error
+     */
+
+    app.get("/get/videos/list/from/:fromId/to/:toId", async (req, res, next) => {
+        news.getListNewsFromIdToId(req, res);
+    });
 
     /**
      * Get detail news by id
@@ -156,6 +170,19 @@ const router = (app) => {
 
     app.post("/post/like/increase/:id", async (req, res, next) => {
         videos.increaseLikeById(req, res);
+    });
+
+    /**
+     * Get video by id
+     * @route POST /post/like/reduce/{id}
+     * @group Videos
+     * @param {number}  id.path.required - Id of video
+     * @returns {object} 200 - id, videoUrl, title, thumbnail, time
+     * @returns {Error}  default - Unexpected error
+     */
+
+    app.post("/post/like/reduce/:id", async (req, res, next) => {
+        videos.reduceLikeById(req, res);
     });
 
 }

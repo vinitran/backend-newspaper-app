@@ -46,10 +46,20 @@ const increaseLikeById = async (req, res) => {
     return res.json(data)
 }
 
+const reduceLikeById = async (req, res) => {
+    await videos.increment(
+        { like: -1 },
+        { where: { id: req.params.id } }
+    );
+    const data = await videos.findByPk(req.params.id)
+    return res.json(data)
+}
+
 module.exports = {
     helloworld,
     createVideo,
     getListVideos,
     getVideoById,
-    increaseLikeById
+    increaseLikeById,
+    reduceLikeById
 }

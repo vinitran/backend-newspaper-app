@@ -1,4 +1,5 @@
 const news = require('../models/news')
+const { Op } = require("sequelize");
 const NewsAPI = require('newsapi');
 const newsapi = new NewsAPI('78b8a6d680c64e65b57a30ec3f9f47a1');
 const helloworld = async (req, res) => {
@@ -67,9 +68,21 @@ const getListNews = async (req, res) => {
     return res.json(data);
 }
 
+const getListNewsFromIdToId = async (req, res) => {
+    const data = await news.news.findAll({
+        where: {
+            id: {
+                [Op.between]: [req.params.fromId, req.params.toId]
+            }
+        }
+    })
+    return res.json(data);
+}
+
 const getNewsDetailById = async (req, res) => {
     const newsData = await news.newsDetail.findByPk(req.params.id);
     const descriptionData = await news.description.findAll({ 
+        attributes: ['description', 'imageUrl'],
         where: {
             descriptionId: newsData.descriptionId
         }
@@ -91,6 +104,7 @@ module.exports = {
     helloworld,
     createNews,
     getNewsById,
+    getListNewsFromIdToId,
     getNewsDetailById,
     getListNews,
     upgradeNews
