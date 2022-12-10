@@ -8,19 +8,31 @@ const videos = sequelize.define('videos', {
         autoIncrement: true,
         unique: true,
     },
-    videoUrl: {
+    channelName: {
         type: DataTypes.STRING,
         allowNull: false,
     },
-    title: {
+    uri: {
         type: DataTypes.STRING,
         allowNull: false,
     },
-    thumbnail: {
+    caption: {
         type: DataTypes.STRING,
         allowNull: false,
     },
-    time: {
+    musicName: {
+        type: DataTypes.STRING,
+        allowNull: false,
+    },
+    like: {
+        type: DataTypes.INTEGER,
+        allowNull: false,
+    },
+    comments: {
+        type: DataTypes.INTEGER,
+        allowNull: false,
+    },
+    avatarUri: {
         type: DataTypes.STRING,
         allowNull: false,
     }

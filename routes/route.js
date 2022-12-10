@@ -86,10 +86,13 @@ const router = (app) => {
 
     /**
      * @typedef videos
-     * @property {string} videoUrl.required -
-     * @property {string} title.required -
-     * @property {string} time.required -
-     * @property {string} thumbnail.required -
+     * @property {string} channelName.required -
+     * @property {string} uri.required -
+     * @property {string} caption.required -
+     * @property {string} musicName.required -
+     * @property {number} like.required -
+     * @property {number} comments.required -
+     * @property {string} avatarUri.required -
      */
     /**
      * Create new Video 
@@ -140,6 +143,19 @@ const router = (app) => {
 
     app.get("/get/video/id/:id", async (req, res, next) => {
         videos.getVideoById(req, res);
+    });
+
+    /**
+     * Get video by id
+     * @route POST /post/like/increase/{id}
+     * @group Videos
+     * @param {number}  id.path.required - Id of video
+     * @returns {object} 200 - id, videoUrl, title, thumbnail, time
+     * @returns {Error}  default - Unexpected error
+     */
+
+    app.post("/post/like/increase/:id", async (req, res, next) => {
+        videos.increaseLikeById(req, res);
     });
 
 }
